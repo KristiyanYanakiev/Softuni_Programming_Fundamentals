@@ -1,6 +1,6 @@
 # Softuni_Programming_Fundamentals
 
-Here are the code I have written during my studies in Softuni's course "Programming Basics". The course consisted of lectures and coding problems.
+The project contains the code I have written during my studies in Softuni's course "Programming Basics". The course consisted of lectures and coding problems.
 
 Topics the course covered:
 
